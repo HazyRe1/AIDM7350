@@ -1,0 +1,29 @@
+p{
+    color:lightpink;
+    font-size:30px;
+}
+.standout{
+    color:lightblue
+}
+.image1{
+    border-radius: 50%;
+}
+.image2{
+    border-radius: 30px;
+}
+.image3{
+    opacity: 0.8;;
+}
+.image4{
+    filter: brightness(60%);
+}
+.image5{
+    filter: blur(5px);
+}
+.image4:hover{
+    filter: blur(5px);
+}
+p:hover {
+    background:lightcoral;
+   }
+   
